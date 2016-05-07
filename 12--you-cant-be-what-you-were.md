@@ -1,0 +1,3 @@
+# You can't be what you were...
+
+> You can't be what you were — so you better start being just what you are... /Fugazi/

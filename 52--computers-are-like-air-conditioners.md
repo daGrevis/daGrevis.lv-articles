@@ -1,0 +1,3 @@
+# Computers are like air-conditioners...
+
+> Computers are like air-conditioners — they stop working properly when you open window. /Unknown/

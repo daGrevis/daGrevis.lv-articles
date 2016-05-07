@@ -1,0 +1,3 @@
+# We are actually not smart enough...
+
+> It is an open acknowledgement that we are actually not smart enough to know how to write the software we need the first time around, because we usually can only fully understand our problems once we have finished solving them. /Isaac Schlueter/

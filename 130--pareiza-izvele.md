@@ -1,0 +1,13 @@
+# Pareizā izvēle
+
+Es lietoju Python, Linux un Vim, un visiem saku: «Lietojiet Python, tā _ir pareizā valoda_! Lietojiet Linux, tā _ir pareizā izvēle_! Lietojiet Vim, tas _ir pareizas editors_!». Tu lieto PHP, Windows un Sublime, un saki man to pašu. Trešā, neatkarīgā persona lieto Javu, OS X un IntelliJ IDEA. Katram ir sava nostāja un pārliecība par to, kas _ir pareizs_.
+
+Gadiem es esmu aizstāvējis tā brīža _pareizo_ tūli. Sākumā tas bija Php un Firefox. Tad es lietoju Windows un Notepad++. Tad es pamēģināju Ubuntu un kliedzu, cik Windows ir slikts! Tad Fedora _bija pareizā izvēle_. Tad es iemācījos Python un [pat uzrakstīju blograkstu par to, cik PHP ir nožēlojama valoda](http://dagrevis.lv/blog/88/no-php-uz-python-jeb-pyhon-valoda-ph-pista-acim/)! Tad es pārslēdzos uz Arch Linux un šausminājos par to, cik Ubuntu un Fedora ir nožēlojami. Protams, tad _nāca vienīgais un pareizas editors — Vim_.
+
+Es tagad nevēlos pateikt, ka tā nav. Python, Linux un Vim ir pats labākais, ko esmu atradis! Un, es domāju, ka iepriekšējās izvēles (kaut vai tas pats PHP, Windows un Notepad++) ir sliktākas. Un ko es daru? Es visiem to cenšos iestāstīt. Man ir traka vēlme «visus apgaismot un parādīt tiem pareizo ceļu»! Es stundām uzturos internetā tikai lai pierādītu, ka tev ir jāpamēģina Python un jāpamēģina Vim. Kad tev ir jādot iespēja kkam citam. Kkam tam, ko lietoju es.
+
+Es nezinu, kāpēc. Ja kāds ir spējīgs paskaidrot, kāpēc man ir tāda vēlme — lūdzu izskaidrojiet. Bet es zinu to, ka pirms, teiksim, diviem gadiem, es bļāvu — «<PHP ir super! Izmanto Kohana nevis CodeIgniter!» (PHP freimvorki). Arī tad man bija savi favorīti. Un es esmu drošs, ka pēc gada vai diviem es atkal bļaušu — tikai kko nedaudz savādāku. Varbūt tas būs Go, varbūt Haskell... Un sliktās lietas es bļaušu par to, ko lietoju tagad.
+
+**Bet nevajag!** Cilvēki negrib uzklausīt padomu, jo cilvēkiem patīk visu iemācīties _the hard way_. Ja tas ir pareizi, tu to laika gaitā pats sapratīsi. Piemēram, Vim editors iesaka bultiņu vietā izmantot HJKL taustiņus. Bieži vien, cilvēki to vienkārši ignorē un izmanto tās pašas pierastās bultiņas. Bet tas, ko es novēroju, ir, ka, laika gaitā, cilvēki tomēr sāk saprast, ka bultiņas nav tik efektīvas un pārslēdzas uz HJKL taustiņiem. _Cilvēki laika gaitā atrod efektīvāku veidu_.
+
+Un tas pats attiecas uz jebko citu. Gan uz programmēšanas valodām, gan uz operētājsistēmām. Gan uz web broveriem, gan uz freimvorkiem un laibarijiem. It kā ļoti pašsaprotami, bet cilvēki kko tomēr nesaprot. Tā vietā, lai cīnītos par _pareizo izvēli_ — varbūt pamēģinam kko citu mēs paši? Man, personīgi, interesē kas **tik labs** ir tūļos, ko izmanto citi, ko slavē citi. Tur kkam ir jābūt! :)
